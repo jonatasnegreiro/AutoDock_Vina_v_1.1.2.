@@ -1,6 +1,3 @@
-!Texto alternativo
-
-
 # Pipeline para Simulações de Docking Molecular com AutoDock Vina versão 1.1.2.
 
 Este pipeline foi criado para facilitar a realização de simulações de docking molecular utilizando o AutoDock Vina versão 1.1.2. Embora as técnicas de docking molecular possam ser simples de executar, uma preparação prévia dos arquivos é necessária para garantir a acurácia dos resultados. Este pipeline visa simplificar essa etapa.
