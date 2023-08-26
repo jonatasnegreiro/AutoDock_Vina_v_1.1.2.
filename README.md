@@ -15,7 +15,7 @@ O pipeline é executado de maneira intuitiva e o usuário deve seguir a sequênc
 ## Como acessar o pipeline
 
 Experimente nosso pipeline no Google Colab:
-  - [![docking molecular](https://colab.research.google.com/drive/1a9bofzpdKDfGMcLtrVhkrqcOBCGkZv7m?usp=sharing)
+  - [![Autodock Vina](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a9bofzpdKDfGMcLtrVhkrqcOBCGkZv7m?usp=sharing)
 
 ## Suporte
 
