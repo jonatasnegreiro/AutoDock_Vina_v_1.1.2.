@@ -1,4 +1,7 @@
-# Pipeline para Simulações de Docking Molecular com AutoDock Vina
+!Texto alternativo
+
+
+# Pipeline para Simulações de Docking Molecular com AutoDock Vina versão 1.1.2.
 
 Este pipeline foi criado para facilitar a realização de simulações de docking molecular utilizando o AutoDock Vina versão 1.1.2. Embora as técnicas de docking molecular possam ser simples de executar, uma preparação prévia dos arquivos é necessária para garantir a acurácia dos resultados. Este pipeline visa simplificar essa etapa.
 
@@ -15,7 +18,7 @@ O pipeline é executado de maneira intuitiva e o usuário deve seguir a sequênc
 ## Como acessar o pipeline
 
 Experimente nosso pipeline no Google Colab:
-  - [![Caso de uso dinâmico](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a9bofzpdKDfGMcLtrVhkrqcOBCGkZv7m?usp=sharing)
+  - [![docking molecular](https://colab.research.google.com/drive/1a9bofzpdKDfGMcLtrVhkrqcOBCGkZv7m?usp=sharing)
 
 ## Suporte
 
