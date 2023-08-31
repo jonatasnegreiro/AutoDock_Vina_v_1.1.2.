@@ -15,10 +15,8 @@ O pipeline é executado de maneira intuitiva e o usuário deve seguir a sequênc
 ## Como acessar o pipeline
 
 Experimente nosso pipeline no Google Colab:
-```
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a9bofzpdKDfGMcLtrVhkrqcOBCGkZv7m?usp=sharing)
-```
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonatasnegreiro/AutoDock_Vina_v_1.1.2./blob/main/Pipeline_do_Autodock_Vina_1_1_2.ipynb)
 
 ## Suporte
 
