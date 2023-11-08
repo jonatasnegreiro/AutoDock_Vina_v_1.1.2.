@@ -12,9 +12,9 @@ Uma vez que todos os arquivos necessários estão prontos, o usuário pode reali
 
 O *pipeline* é executado de maneira intuitiva e o usuário deve seguir a sequência fornecida. Ao final da simulação, todos os arquivos podem ser salvos no Google Drive do usuário para referência futura.
 
-## Como acessar o pipeline
+## Como acessar o *pipeline*
 
-Experimente nosso pipeline no Google Colab:
+Experimente nosso *pipeline* no Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonatasnegreiro/AutoDock_Vina_v_1.1.2./blob/main/Pipeline_do_Autodock_Vina_1_1_2.ipynb)
 
